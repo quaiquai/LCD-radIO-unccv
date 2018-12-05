@@ -1,0 +1,10 @@
+Required python packages:
+keras
+Ipython
+radio (installs other packages as I.e numpy)
+Matplotib
+tensorflow
+tqdm
+
+
+
