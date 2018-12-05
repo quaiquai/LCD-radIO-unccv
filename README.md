@@ -35,5 +35,9 @@ my_epoch = 1
 bs = 10
 loss_his = []`
 
+### Notebook
+If the notebook isnt displaying at the moment and says: "Sorry something went wrong. Reload?" view the notebook at this [link](https://nbviewer.jupyter.org/github/quaiquai/LCD-radIO-unccv/blob/master/unet_matt.ipynb)
+
+
 
 
